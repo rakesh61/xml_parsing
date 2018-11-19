@@ -1,8 +1,6 @@
 #Python code to illustrate parsing of XML files 
-# importing the required modules 
-import csv 
+# importing the required 
 import xml.etree.ElementTree as ET 
-
 
 def parseXML(xmlfile): 
 
